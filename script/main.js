@@ -1,2 +1,2 @@
 // eslint-disable-next-line no-console
-console.log('===>', 'Alex');
+console.log('Alex');
